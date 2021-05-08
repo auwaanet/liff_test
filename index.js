@@ -28,7 +28,7 @@ async function main() {
 
   // Initialize LIFF app)
   
-await liff.init({ liffId: "1655964944-PAbZ27ev" })
+await liff.init({ liffId: "xxxxxxx" })
   
   // Try a LIFF function Check open OS
   
